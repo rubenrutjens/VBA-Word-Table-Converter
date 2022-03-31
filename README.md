@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rubenrutjens/VBA-Word-Table-Converter">
-    <img src="images/template.png" alt="Logo" width="80" height="80">
+    <img src="images/readme-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">VBA Word Table Converter</h3>
@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/readme-logo.png" alt="Logo" width="60" height="90">
+<img src="images/template.png" alt="Logo" width="120" height="160">
 
 Here's some key features of this program:
 * Able to upload multiple word documents and convert these to .csv documents.
