@@ -21,7 +21,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/rubenrutjens/VBA-Word-Table-Converter">
-    <img src="images/readme-logo.png" alt="Logo" width="80" height="80">
+    <img src="images/template.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">VBA Word Table Converter</h3>
