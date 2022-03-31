@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](<img src="images/readme-logo.png" alt="Logo" width="80" height="80">)
+<img src="images/readme-logo.png" alt="Logo" width="60" height="90">
 
 Here's some key features of this program:
 * Able to upload multiple word documents and convert these to .csv documents.
