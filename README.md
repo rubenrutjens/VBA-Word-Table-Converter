@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="images/template.png" alt="Logo" width="120" height="160">
+<img src="images/template.png" alt="Logo" width="220" height="260">
 
 Here's some key features of this program:
 * Able to upload multiple word documents and convert these to .csv documents.
