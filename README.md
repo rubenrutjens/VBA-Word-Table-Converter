@@ -22,15 +22,14 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/rubenrutjens/VBA-Word-Table-Converter">
+    <img src="images/readme-logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">VBA Word Table Converter</h3>
@@ -38,7 +37,7 @@
   <p align="center">
     README file for the program vba word table converter.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>How to use? »</strong></a>
+    <a href="https://github.com/rubenrutjens/VBA-Word-Table-Converter"><strong>How to use? »</strong></a>
     <br />
   </p>
 </div>
@@ -103,18 +102,9 @@ In order to use this program you only need to download one file. How to download
 _Below is described how to download the file._
 
 1. Go to the top of this page.
-2. Click the green button labeled ` Code` 
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+2. Click the green button labeled `Code` 
+3. Click the `Download Zip` button
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -123,10 +113,7 @@ _Below is described how to download the file._
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
+Once you have succesfuly downloaded this, you can open the file named `VBA Converter.xlsm`. 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
