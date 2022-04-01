@@ -1,6 +1,5 @@
-## Todo list
+### Todo list
 
-- [x] #1
 - [ ] https://github.com/rubenrutjens/VBA-Word-Table-Converter
 - [ ] Option to add new table header in excel
 - [ ] Option to reset the document / make new document
