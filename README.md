@@ -57,11 +57,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<<<<<<< 89c14ed9a45cbab669c6c82e005d789ce01e4e02
 [![Product Name Screen Shot][product-screenshot]](<img src="images/readme-logo.png" alt="Logo" width="80" height="80">)
-=======
 <img src="images/template.png" alt="Logo" width="220" height="260">
->>>>>>> README.md
 
 Here's some key features of this program:
 * Able to upload multiple word documents and convert these to .csv documents.
