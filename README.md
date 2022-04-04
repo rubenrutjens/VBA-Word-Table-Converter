@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[product-screenshot](<img src="images/readme-logo.png" alt="Logo" width="80" height="80">)
+<img src="images/readme-logo.png" alt="Logo" width="80" height="80">
 <img src="images/template.png" alt="Logo" width="220" height="260">
 
 Here's some key features of this program:
